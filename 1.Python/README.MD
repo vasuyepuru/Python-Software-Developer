@@ -1,36 +1,34 @@
-<b>About Java Track</b>
+<b>About Python Track</b>
 
->Our core Java programming track is designed for students and working professionals who want to became a Java Software Engineer.
->
->Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. 
->
->It is a widely used robust technology.
+>Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. 
+>Python is dynamically typed and garbage-collected. 
+>It supports multiple programming paradigms, including structured, object-oriented and functional programmin
 
 <b>Prerequisite</b>
 
-- To learn Java, you must have the basic knowledge of C/C++ programming language.
+- To learn Python, you must have the basic knowledge of C/C++ programming language.
 
 <b>Targetted Audience </b>
 
-- Our Java programming track is designed to help beginners and professionals.
+- Our Python programming track is designed to help beginners and professionals.
 
-<b>Java Course Curriculum</b>
+<b>Python Course Curriculum</b>
 <ol>
-<li>What is and Why Java ?</li>
-
-<li>Setting up Java Development Environment </li>
-
-<li>Java Programming Basics</li>
-
-<li>Object-Oriented Programming (OOP) Concepts in Java</li>
-
-<li>Java Collections Framework</li>
-
-<li>Java Exception Handling</li>
-
-<li>File Handling in Java</li>
-
-<li>Multithreading in Java</li>
-
-<li>Java Database Connectivity (JDBC) </li>
+01	Introduction
+02	Variables, Built-in Functions
+03	Operators
+04	Strings
+05	Lists
+06	Tuples
+07	Sets
+08	Dictionaries
+09	Conditionals
+10	Loops
+11	Functions
+12	Modules
+13	Exception Handling
+14	Regular Expressions
+15	File Handling
+16	Python Package Manager
+17	Classes and Objects
 <ol>
