@@ -14,21 +14,21 @@
 
 <b>Python Course Curriculum</b>
 <ol>
-01	Introduction
-02	Variables, Built-in Functions
-03	Operators
-04	Strings
-05	Lists
-06	Tuples
-07	Sets
-08	Dictionaries
-09	Conditionals
-10	Loops
-11	Functions
-12	Modules
-13	Exception Handling
-14	Regular Expressions
-15	File Handling
-16	Python Package Manager
-17	Classes and Objects
+<li>	Introduction </li>
+<li>	Variables, Built-in Functions </li>
+<li>	Operators </li>
+<li>	Strings </li>
+<li>	Lists </li>
+<li>	Tuples </li>
+<li>	Sets </li>
+<li>	Dictionaries </li>
+<li>	Conditionals </li>
+<li>	Loops </li>
+<li>	Functions  </li>
+<li>	Modules </li>
+<li>	Exception Handling </li>
+<li>	Regular Expressions </li>
+<li>	File Handling </li>
+<li>	Python Package Manager </li>
+<li>	Classes and Objects </li>
 <ol>
